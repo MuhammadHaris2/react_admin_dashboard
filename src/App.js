@@ -19,7 +19,7 @@ function App() {
       <div className="appContainer">
         <Sidebar />
         <Switch>
-          <Route exact path="/">
+          <Route path="/react_admin_dashboard">
             <Home />
           </Route>
           <Route path="/users">
