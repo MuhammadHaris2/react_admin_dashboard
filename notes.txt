@@ -1,0 +1,13 @@
+material ui icons
+npm install @material-ui/icons
+
+material ui core
+npm install @material-ui/core
+
+npm install @material-ui/icons install @material-ui/core recharts
+
+rechart
+npm install recharts
+
+datagrid
+npm install @material-ui/data-grid
